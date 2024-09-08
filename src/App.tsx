@@ -2,15 +2,7 @@ import "./App.css";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@radix-ui/react-tabs";
 import { Card } from "./components/ui/card";
 import { Button } from "./components/ui/button";
-import {
-  ArrowLeft,
-  ArrowRight,
-  ArrowUpLeftFromSquareIcon,
-  ChevronLeft,
-  ChevronRight,
-  CircleHelp,
-  Plus,
-} from "lucide-react";
+import { ArrowLeft, ArrowRight, Plus } from "lucide-react";
 import { useState } from "react";
 import { tabs } from "./data/tabs.json";
 
