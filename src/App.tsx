@@ -115,19 +115,19 @@ const App = () => {
           {/* Image Gallery */}
           <div className="flex space-x-4 overflow-x-auto mt-10 ml-5">
             <img
-              src="https://images.unsplash.com/photo-1518005020951-eccb494ad742?q=80&w=1955&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="/image-1.png"
               alt="Image 1"
-              className="w-[190px] h-[150px] rounded-[24px] filter grayscale hover:filter-none transform transition-all cursor-pointer duration-500 ease-in-out"
+              className="w-[145px] h-[150px] rounded-[24px] filter grayscale hover:filter-none transform transition-all cursor-pointer duration-500 ease-in-out"
             />
             <img
-              src="https://images.unsplash.com/photo-1518005020951-eccb494ad742?q=80&w=1955&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="/image-2.png"
               alt="Image 2"
-              className="w-[190px] h-[150px] rounded-[24px] filter grayscale hover:filter-none transform transition-all cursor-pointer duration-500 ease-in-out"
+              className="w-[145px] h-[150px] rounded-[24px] filter grayscale hover:filter-none transform transition-all cursor-pointer duration-500 ease-in-out"
             />
             <img
-              src="https://images.unsplash.com/photo-1518005020951-eccb494ad742?q=80&w=1955&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="/image-3.png"
               alt="Image 3"
-              className="w-[190px] h-[150px] rounded-[24px] filter grayscale hover:filter-none transform transition-all cursor-pointer duration-500 ease-in-out"
+              className="w-[140px] h-[150px] rounded-[24px] filter grayscale hover:filter-none transform transition-all cursor-pointer duration-500 ease-in-out"
             />
           </div>
         </Card>
